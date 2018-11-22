@@ -1,0 +1,164 @@
+{
+  "basics": {
+    "name": "Yoann Babel",
+    "label": "Ingénieur informatique, consultant",
+    "summary": "**Plus de 20 ans d'expérience dans l'informatique**, spécialisé dans le web et la blockchain",
+    "website": "https://ybabel.fr/",
+    "phone": "###PHONE###",
+    "email": "###EMAIL###",
+    "picture": "https://raw.githubusercontent.com/ybabel/cv/master/yo.jpg",
+    "location": {
+      "address": "Yoann Babel\n###ADDRESS###",
+      "postalCode": "09800",
+      "city": "Antras",
+      "countryCode": "FR",
+      "region": "Occitanie"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "ybabel",
+        "url": "https://github.com/ybabel",
+        "iconClass": "fa fa-github-square"
+      },
+      {
+        "network": "Linkedin",
+        "username": "ybabel",
+        "url": "https://www.linkedin.com/in/yoann-babel-56b7b382/",
+        "iconClass": "fa fa-linkedin-square"
+      }
+    ]
+  },
+  "work": [{
+      "company": "Talao",
+      "position": "Directeur technique - co-fondateur",
+      "startDate": "2014-07",
+      "endDate": "2018-11",
+      "summary": "Mise en place de l'infrastructure technique, suivi de projet, coordination des équipes, suivi qualité",
+      "highlights": [
+      ]
+    },{
+      "company": "Sodifrance",
+      "website": "http://sodifrance.fr",
+      "position": "Chef de projet",
+      "startDate": "2014-09",
+      "endDate": "2018-05",
+      "summary": "Chef de projet web",
+      "highlights": [
+        "Spécialiste de Drupal"
+      ]
+    },
+    {
+      "company": "IDEIA",
+      "position": "Responsable du pole open-source",
+      "startDate": "2007-01",
+      "endDate": "2014-08",
+      "summary": "J'ai développé le pôle open-source de l'entreprise à travers la mise en place d'un service de conseil et développement web basé sur Drupal. J'ai répondu à de nombreux appels d'offre public, effectué des choix d'architecture, géré des projet et les équipes de développement.",
+      "highlights": [
+        "Gestion d'équipe",
+        "Choix stratégiques",
+        "Réponses à appel d'offre public"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "ENSIIE",
+      "area": "Informatique",
+      "startDate": "1994-09",
+      "endDate": "1997-09",
+      "studyType": "Ecole d'ingénieurs"
+    },
+    {
+      "institution": "Lycée Pierre-fermat",
+      "area": "Mathematique, informatique",
+      "startDate": "1989-09",
+      "endDate": "1996-06",
+      "studyType": "Classes préparatoires"
+    },
+    {
+      "institution": "Lycée Pierre-fermat",
+      "area": "Mathématique",
+      "startDate": "1984-09",
+      "endDate": "1986-06",
+      "studyType": "Lycée"
+    }
+  ],
+  "skills": [
+    {
+      "name": "System",
+      "keywords": [
+        "Docker",
+        "Ansible",
+        "Linux",
+        "Intégration continue",
+        "Gitlab-CI",
+        "Debian"
+      ]
+    },
+    {
+      "name": "Framework",
+      "keywords": [
+        "Symfony",
+        "jQuery",
+        "Zend",
+        "Struts",
+        "AngularJS"
+      ]
+    },
+    {
+      "name": "Softwares",
+      "keywords": [
+        "Drupal",
+        "Wordpress"
+      ]
+    },
+    {
+      "name": "Langages",
+      "keywords": [
+        "PHP",
+        "Javascript",
+        "C++"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Science",
+      "summary": "",
+      "keywords": [
+         "Physique fondamentale",
+         "EvoPsy",
+         "Théorie des types",
+         "Cybernétique"
+      ]
+    },
+    {
+      "name": "Permaculture"
+    },
+    {
+      "name": "Energies renouvelables",
+      "summary": ""
+      "keywords": [
+         "Photovoltaïque",
+         "Domotique"
+      ]
+    },
+    {
+      "name": "Cinéma"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "level": "Langue natale",
+      "fluency": "Langue natale"
+    },
+    {
+      "language": "Anglais",
+      "level": "courant",
+      "fluency": "courant"
+    }
+  ]
+}
+
