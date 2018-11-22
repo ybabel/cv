@@ -29,35 +29,39 @@
       }
     ]
   },
-  "work": [{
+  "work": [
+    { 
+      "company": "Projet personnel",
+      "position": "Responsable, technicien",
+      "startDate": "2015-09",
+      "endDate": "2018-11",
+      "summary": "Mise en place d'une solution domotique d'automatisation de gestion des appareils électriques en fonction de la production solaire",
+      "highlights": [
+      	"Plateforme technique : raspberry-pi, zwave, jeedom",
+      	"Appareils pilotés : panneaux solaires, onduleur, batteries, panneaux rayonnants, machine à laver le linge, lave vaiselle, box internet, ballon thermodynamique, poêle bouilleur"
+      ]
+    },
+    {
       "company": "Talao",
       "position": "Directeur technique - co-fondateur",
       "startDate": "2014-07",
       "endDate": "2018-11",
       "summary": "Mise en place de l'infrastructure technique, suivi de projet, coordination des équipes, suivi qualité",
       "highlights": [
-          "gitlab, gitlab-ci",
-          "behat",
-          "drupal",
-          "ethereum",
-          "vagrant",
-          "piwik",
-          "TICK (influxdb)"
+          "gitlab, gitlab-ci, behat, drupal, ethereum, vagrant, piwik/matomo, TICK (influxdb)"
       ]
-    },{
+    },
+    {
       "company": "Sodifrance",
       "website": "http://sodifrance.fr",
       "position": "Chef de projet",
-      "startDate": "2014-09",
+      "startDate": "2015-09",
       "endDate": "2018-05",
-      "summary": "Chef de projet web",
+      "summary": "Architecte Drupal",
       "highlights": [
-        "Spécialiste de Drupal",
-        "Architecture web",
-        "Performance",
-        "Audit de sécurité",
-        "Développement",
-        "Clients : INTECH'Info, HForMen, USH, CCI-Paris, France Télévisio, Engie, Minestère de la santé, CG94, Eduservice, DGAC, BnF, Citeo, Andra"
+        "Drupal : Architecture web, Performance et scalabilité, Audit de sécurité, Développement, Formation (création de support, micro-formations), Tests automatisés",
+        "Clients : INTECH'Info, HForMen, USH, CCI-Paris, France Télévisio, Engie, Minestère de la santé, CG94, Eduservice, DGAC, BnF, Citeo, Andra",
+        "Technologies: mysql, debian, apache solr, bash, gitlab, JIRA, ySlow, Apache2, PHP5, memcache, Aegir, SSO, LDAP, symfony2, Zend, JSON, webservices, drush"
       ]
     },
     {
