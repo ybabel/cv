@@ -147,24 +147,31 @@
         "Linux",
         "Intégration continue",
         "Gitlab-CI",
-        "Debian"
+        "Debian",
+        "MySQL",
+        "NoSQL",
+        "Vagrant"
       ]
     },
     {
-      "name": "Framework",
+      "name": "Frameworks",
       "keywords": [
         "Symfony",
         "jQuery",
         "Zend",
-        "Struts",
-        "AngularJS"
+        "Behat"
       ]
     },
     {
       "name": "Softwares",
       "keywords": [
         "Drupal",
-        "Wordpress"
+        "Wordpress",
+        "Nextcloud",
+        "Mattermost",
+        "Loomio",
+        "Matomo",
+        "KeepassX"
       ]
     },
     {
@@ -172,7 +179,10 @@
       "keywords": [
         "PHP",
         "Javascript",
-        "C++"
+        "C++",
+        "nodejs",
+        "Assembleur HP48",
+        "Delphi"
       ]
     }
   ],
