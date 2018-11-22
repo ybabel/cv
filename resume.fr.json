@@ -36,6 +36,13 @@
       "endDate": "2018-11",
       "summary": "Mise en place de l'infrastructure technique, suivi de projet, coordination des équipes, suivi qualité",
       "highlights": [
+          "gitlab, gitlab-ci",
+          "behat",
+          "drupal",
+          "ethereum",
+          "vagrant",
+          "piwik",
+          "TICK (influxdb)"
       ]
     },{
       "company": "Sodifrance",
@@ -45,20 +52,63 @@
       "endDate": "2018-05",
       "summary": "Chef de projet web",
       "highlights": [
-        "Spécialiste de Drupal"
+        "Spécialiste de Drupal",
+        "Architecture web",
+        "Performance",
+        "Audit de sécurité",
+        "Développement",
+        "Clients : INTECH'Info, HForMen, USH, CCI-Paris, France Télévisio, Engie, Minestère de la santé, CG94, Eduservice, DGAC, BnF, Citeo, Andra"
       ]
     },
     {
       "company": "IDEIA",
       "position": "Responsable du pole open-source",
       "startDate": "2007-01",
-      "endDate": "2014-08",
-      "summary": "J'ai développé le pôle open-source de l'entreprise à travers la mise en place d'un service de conseil et développement web basé sur Drupal. J'ai répondu à de nombreux appels d'offre public, effectué des choix d'architecture, géré des projet et les équipes de développement.",
+      "endDate": "2015-09",
+      "summary": "J'ai développé le pôle open-source de l'entreprise à travers la mise en place d'un service de conseil et développement web basé sur Drupal. J'ai répondu à de nombreux appels d'offre public, effectué des choix d'architecture, géré des projet et les équipes de développement, animé des formations.",
       "highlights": [
-        "Gestion d'équipe",
-        "Choix stratégiques",
-        "Réponses à appel d'offre public"
+        "Création du programme de formation (Bases, Développement, Habillage, Administration)",
+        "Création du support de formation et des exercices",
+        "Création de l'environnement de formation",
+        "Formations spécialisées : référencement, sécurisation, gestion de projet",
+        "Création de webcast autour de Drupal",
+        "Organisation d’événements et de réunions, gestion d'équipe",
+        "Mise en place d'une architecture de staging pour Drupal",
+        "Mise en place d'une procédure d'exploitation"
       ]
+    },
+    {
+    	"company": "Indépendant",
+    	"position": "Consultant",
+    	"startDate": "2002-10",
+    	"endDate": "2006-12",
+    	"summary": "Consultant indépendant en informatique, diverses missions de développement, et formations à la bureautique libre Open-Office",
+    	"highlights": [
+    		"Apogee : réalisation d'une application de gestion de budget sur PocketPC",
+    		"Securitas : Développement Delphi 6, utilisation de pattern de code proche de l'AOP",
+    		"C-Smile : contributions au moteur de scripting open-source",
+    		"Formations Open-office pour : Hôpital de la fondation d'Alby, CNRS, Laboratoire Pierre Fabre, IRSN, DGA, BSA, Fashion wear"
+    	]
+    },
+    {
+    	"company": "Lycée d’Enghien",
+    	"position": "Professeur d’Informatique BTS",
+    	"startDate": "2001-09",
+    	"endDate": "2002-09",
+    	"summary": "Pédagogie, préparation des cours et correction des examens - Système et exploitation et Architecture matérielle"
+    },
+    {
+    	"company": "Virtutis",
+    	"position": "Analyste développeur",
+    	"startDate": "2001-01",
+    	"endDate": "2001-06",
+    	"summary": "Logiciel de génération automatique de code à partir de Rational Rose : Object Builder 2",
+    	"highlights": [
+    		"Conception et réalisation",
+    		"Encadrement d'une équipe de 3 personnes pour un projet stratégique et innovateur. Microsoft Project 2000",
+    		"Code auto-généré",
+    		"XML, COM, Delphi, UML"
+    	]
     }
   ],
   "education": [
