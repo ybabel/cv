@@ -42,13 +42,13 @@
       ]
     },
     {
-      "company": "Talao",
+      "company": "eMindHub",
       "position": "Directeur technique - co-fondateur",
       "startDate": "2014-07",
       "endDate": "2018-11",
-      "summary": "Mise en place de l'infrastructure technique, suivi de projet, coordination des équipes, suivi qualité",
+      "summary": "Mise en place de l'infrastructure technique, suivi de projet, coordination des équipes, suivi qualité. Participation à l'ICO Talao. Codage de smart-contract Solidity",
       "highlights": [
-          "gitlab, gitlab-ci, behat, drupal, ethereum, vagrant, piwik/matomo, TICK (influxdb)"
+          "gitlab, gitlab-ci, behat, drupal, ethereum, vagrant, piwik/matomo, TICK (influxdb), solidity"
       ]
     },
     {
