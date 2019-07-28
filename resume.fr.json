@@ -2,7 +2,7 @@
   "basics": {
     "name": "Yoann Babel",
     "label": "Ingénieur informatique, consultant",
-    "summary": "**Plus de 20 ans d'expérience dans l'informatique**, spécialisé dans le web et la blockchain",
+    "summary": "**Plus de 20 ans d'expérience dans l'informatique**, spécialisé dans le web, la blockchain, et la formation",
     "website": "https://ybabel.fr/",
     "phone": "###PHONE###",
     "email": "###EMAIL###",
@@ -37,8 +37,8 @@
       "endDate": "2018-11",
       "summary": "Mise en place d'une solution domotique d'automatisation de gestion des appareils électriques en fonction de la production solaire",
       "highlights": [
-      	"Plateforme technique : raspberry-pi, zwave, jeedom",
-      	"Appareils pilotés : panneaux solaires, onduleur, batteries, panneaux rayonnants, machine à laver le linge, lave vaiselle, box internet, ballon thermodynamique, poêle bouilleur"
+      	"Plateforme technique : raspberry-pi, zwave, jeedom, docker",
+      	"Appareils pilotés : panneaux solaires, onduleur, batteries, panneaux rayonnants, machine à laver, lave vaiselle, box internet, ballon thermodynamique, poêle bouilleur"
       ]
     },
     {
@@ -46,7 +46,7 @@
       "position": "Directeur technique - co-fondateur",
       "startDate": "2014-07",
       "endDate": "2018-11",
-      "summary": "Mise en place de l'infrastructure technique, suivi de projet, coordination des équipes, suivi qualité. Participation à l'ICO Talao. Codage de smart-contract Solidity",
+      "summary": "Mise en place de l'infrastructure technique, suivi de projet, coordination des équipes, suivi qualité. Participation à l'ICO Talao sur la blockchain Ethereum. Codage de smart-contract Solidity",
       "highlights": [
           "gitlab, gitlab-ci, behat, drupal, ethereum, vagrant, piwik/matomo, TICK (influxdb), solidity"
       ]
@@ -66,14 +66,15 @@
     },
     {
       "company": "IDEIA",
-      "position": "Responsable du pole open-source",
+      "position": "Responsable du pole open-source, formateur",
       "startDate": "2007-01",
       "endDate": "2015-09",
-      "summary": "J'ai développé le pôle open-source de l'entreprise à travers la mise en place d'un service de conseil et développement web basé sur Drupal. J'ai répondu à de nombreux appels d'offre public, effectué des choix d'architecture, géré des projet et les équipes de développement, animé des formations.",
+      "summary": "J'ai développé le pôle open-source de l'entreprise à travers la mise en place d'un service de conseil et développement web basé sur Drupal. J'ai répondu à de nombreux appels d'offre public, effectué des choix d'architecture, géré des projet et les équipes de développement, animé des formations pour développeur web.",
       "highlights": [
         "Création du programme de formation (Bases, Développement, Habillage, Administration)",
         "Création du support de formation et des exercices",
-        "Création de l'environnement de formation",
+        "Création d'un environnement de formation en ligne",
+        "Formations développeur : Drupal 6 et 7.
         "Formations spécialisées : référencement, sécurisation, gestion de projet",
         "Création de webcast autour de Drupal",
         "Organisation d’événements et de réunions, gestion d'équipe",
@@ -193,23 +194,29 @@
       "keywords": [
          "Physique fondamentale",
          "EvoPsy",
-         "Théorie des types",
+         "Lambda calcul",
          "Cybernétique"
       ]
     },
     {
-      "name": "Permaculture"
-    },
-    {
-      "name": "Energies renouvelables",
+      "name": "Energies renouvelables et autonomie",
       "summary": "",
       "keywords": [
          "Photovoltaïque",
-         "Domotique"
+         "Domotique",
+         "Permaculture",
+         "Mobilité électrique"
       ]
     },
     {
-      "name": "Cinéma"
+      "name": "Loisir",
+      "summary": "",
+      "keywords": [
+         "Cinéma",
+         "Yoga",
+         "Acroyoga",
+         "Sport"
+      ]
     }
   ],
   "languages": [
